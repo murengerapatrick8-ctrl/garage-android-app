@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_meca"   android:icon="@android:drawable/ic_menu_myplaces"     android:title="Mécaniciens"/>
+    <item android:id="@+id/nav_vehi"   android:icon="@android:drawable/ic_menu_mapmode"      android:title="Véhicules"/>
+    <item android:id="@+id/nav_interv" android:icon="@android:drawable/ic_menu_agenda"       android:title="Interventions"/>
+    <item android:id="@+id/nav_stats"  android:icon="@android:drawable/ic_menu_sort_by_size" android:title="Statistiques"/>
+</menu>

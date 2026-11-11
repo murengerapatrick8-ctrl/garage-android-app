@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.GarageExamen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#175C4B</item>
+        <item name="colorPrimaryVariant">#0F3D32</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#E3F2FD</item>
+        <item name="colorSecondaryVariant">#B0C4DE</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
